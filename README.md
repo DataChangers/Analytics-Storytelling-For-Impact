@@ -12,4 +12,20 @@ Course audience: Aspiring analysts in any industry, as well as managers who need
 
 This course is based on the retired Microsoft Professional Program. As partner of Microsoft, we try to continue building these kind of courses to help professionals gain the data skills.
 
-Get access to the complete course: Please follow the instructions on this course page -TBD- to get full access to the course content, including exercises, quizzes and a Certificate of Completion.
+Get access to the complete course: Please follow the instructions on [this course page](https://www.datachangers.com/data-analysis-track/) to get full access to the course content, including exercises, quizzes and a Certificate of Completion.
+
+## What you'll learn
+
+How to apply storytelling principles to your analytics work
+How to improve your analytics presentations through storytelling
+Guidelines and best practices for creating high-impact reports and presentations
+
+## Course Overview Analytics Storytelling for Impact
+
+This course has 5 modules. Every module has videos, exercises and labs to practice your knowledge.
+
+* The Power of Analytics Story Telling
+* Craft Your Analytics Story
+* Perfect Your Analytics Story
+* Land Your Analytics Story
+* Final Evaluation
