@@ -16,9 +16,21 @@ Get access to the complete course: Please follow the instructions on [this cours
 
 ## What you'll learn
 
-How to apply storytelling principles to your analytics work
-How to improve your analytics presentations through storytelling
-Guidelines and best practices for creating high-impact reports and presentations
+* How to apply storytelling principles to your analytics work
+* How to improve your analytics presentations through storytelling
+* Guidelines and best practices for creating high-impact reports and presentations
+
+## Course Prerequisites
+
+For this course, you need some basic Power BI Skills.
+
+Are you new to Power BI? No worries, find herewith some free Learning Paths on Microsoft Learn:
+
+* [Create and use analytics reports with Power BI](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/?WT.mc_id=AI-MVP-5002978)
+* [Visualize Data in Power BI](https://docs.microsoft.com/learn/paths/visualize-data-power-bi/?WT.mc_id=AI-MVP-5002978)
+* [Data Analysis in Power BI](https://docs.microsoft.com/learn/paths/perform-analytics-power-bi/?WT.mc_id=AI-MVP-5002978)
+
+and many other paths!
 
 ## Course Overview Analytics Storytelling for Impact
 
