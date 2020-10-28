@@ -37,7 +37,20 @@ and many other paths!
 This course has 5 modules. Every module has videos, exercises and labs to practice your knowledge.
 
 * The Power of Analytics Story Telling
+    * The Power of Story Telling
+    * Analytics Storytelling
+    * Lab
 * Craft Your Analytics Story
+    * Scope Your Analytics Story
+    * Craft Your Analytics Story
+    * Lab
 * Perfect Your Analytics Story
+    * Leverage Visual Science
+    * Analytics Story Examples
+    * Lab
 * Land Your Analytics Story
+    * Land Your Story
+    * Next Steps for Mastery
+    * Lab
 * Final Evaluation
+    * Final exam with 20 multiple choice questions
