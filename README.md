@@ -1,5 +1,9 @@
 # Analytics Storytelling For Impact
 
+## NOTE: This course has been retired, but please feel free to take the labs as exercises. Instead of taking this retired course, there is another option:
+
+* Become a Microsoft Certified Professional by taking the [DA-100 Analyzing Data with Microsoft Power BI exam](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). The online courses to prepare you for this exam can be found on [Microsoft Learn](https://docs.microsoft.com/en-us/users/mariandragt-datachangers/collections/e4mkud3mm4r455)
+
 Welcome to the Github Repo of the "Analytics Storytelling For Impact" course!
 
 All analytics work begins and ends with a story. Storytelling with data is the analytics professional’s missing link in delivering the essence of date signals and insights to executives, management, and other stakeholders.
@@ -11,8 +15,6 @@ You'll explore what a story is and, perhaps more importantly, what a story is no
 Course audience: Aspiring analysts in any industry, as well as managers who need to learn data analytics, data scientists, engineers, software developers, AI engineers, and more.
 
 This course is based on the retired Microsoft Professional Program. As partner of Microsoft, we try to continue building these kind of courses to help professionals gain the data skills.
-
-Get access to the complete course: Please follow the instructions on [this course page](https://www.datachangers.com/data-analysis-track/) to get full access to the course content, including exercises, quizzes and a Certificate of Completion.
 
 ## What you'll learn
 
